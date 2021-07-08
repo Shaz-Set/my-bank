@@ -5,8 +5,7 @@ import com.mybank.account.MusicalChairs;
 public class Main {
 
     public static void main(String[] args) {
-    	MusicalChairs.playWithSorting();
-    	
+    	MusicalChairs.playWithSorting();  	
     	MusicalChairs.playWithMap();
     }
 }
